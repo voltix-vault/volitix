@@ -60,6 +60,17 @@ extension AddressBookTextField {
         }
     }
     
+    var scanButton: some View {
+        Button {
+            showScanner.toggle()
+        } label: {
+            Image(systemName: "camera")
+                .font(.body16Menlo)
+                .foregroundColor(.neutral0)
+                .frame(width: 40, height: 40)
+        }
+    }
+    
     var codeScanner: some View {
         QRCodeScannerView(showScanner: $showScanner, handleScan: handleScan)
     }

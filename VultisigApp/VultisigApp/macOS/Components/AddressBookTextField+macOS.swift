@@ -34,6 +34,7 @@ extension AddressBookTextField {
             if showActions {
                 pasteButton
                 fileButton
+                scanButton
             }
         }
         .font(.body12Menlo)
@@ -53,6 +54,17 @@ extension AddressBookTextField {
             .submitLabel(.next)
             .disableAutocorrection(true)
             .borderlessTextFieldStyle()
+        }
+    }
+    
+    var scanButton: some View {
+        Button {
+            showScanner.toggle()
+        } label: {
+            Image(systemName: "camera")
+                .font(.body16Menlo)
+                .foregroundColor(.neutral0)
+                .frame(width: 40, height: 40)
         }
     }
     

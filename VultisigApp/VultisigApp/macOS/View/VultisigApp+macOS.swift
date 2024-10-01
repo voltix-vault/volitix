@@ -25,6 +25,7 @@ extension VultisigApp {
             .buttonStyle(BorderlessButtonStyle())
             .frame(minWidth: 900, minHeight: 600)
             .onAppear{
+                continueLogin()
                 NSWindow.allowsAutomaticWindowTabbing = false
             }
     }
