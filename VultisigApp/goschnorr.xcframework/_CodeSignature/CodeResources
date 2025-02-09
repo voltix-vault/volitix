@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		FUWnCF4vR+nf+Wz8Tm1I64DcKs8=
+		</data>
 		<key>ios-arm64/goschnorr.framework/Headers/goschnorr.h</key>
 		<data>
 		7Hxb+NQIVU7KwBlhIM08E2Y3zh4=
@@ -18,7 +22,7 @@
 		</data>
 		<key>ios-arm64/goschnorr.framework/goschnorr</key>
 		<data>
-		FCPLiwLBX/Ya2YdyMqTMeUbG5Zs=
+		syrIBN8dXg4MXFDATenq4zbvqrk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/goschnorr.framework/Headers/goschnorr.h</key>
 		<data>
@@ -34,7 +38,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/goschnorr.framework/goschnorr</key>
 		<data>
-		SY+g6JTSrEhUb6ideSGZ9XKPp+Y=
+		YfVXbsv2dF73oqsSDJT5HGekic8=
 		</data>
 		<key>macos-arm64_x86_64/goschnorr.framework/Modules/module.modulemap</key>
 		<data>
@@ -50,7 +54,7 @@
 		</data>
 		<key>macos-arm64_x86_64/goschnorr.framework/Versions/A/goschnorr</key>
 		<data>
-		ScEZkNlWycOJT60wkQ4vPgUB3R8=
+		/awOLE774jdqy6i/LX/BBePmU+I=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -92,11 +96,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FCPLiwLBX/Ya2YdyMqTMeUbG5Zs=
+			syrIBN8dXg4MXFDATenq4zbvqrk=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZsR6gp1rDXmnQ4XaRzIr0Pz6fnL7CmFxprWGoDPSdW8=
+			x0o1E3Fffqy0a01NAmJ5yWdw1PdRL7uGuL/o2NS+tjE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/goschnorr.framework/Headers/goschnorr.h</key>
@@ -136,11 +140,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SY+g6JTSrEhUb6ideSGZ9XKPp+Y=
+			YfVXbsv2dF73oqsSDJT5HGekic8=
 			</data>
 			<key>hash2</key>
 			<data>
-			xONxQ3dPcqqOJV5VFnLZ1gjZ8VM6CA/k+J4h52/2/88=
+			xdr/aCYujRrJ8lXo9rJidqmZ0wQ4EXHBSz0Cu2KwN3A=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/goschnorr.framework/Headers</key>
@@ -190,11 +194,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ScEZkNlWycOJT60wkQ4vPgUB3R8=
+			/awOLE774jdqy6i/LX/BBePmU+I=
 			</data>
 			<key>hash2</key>
 			<data>
-			tiPspVzJcU2UCC9VypJcyp5pe0J3xCCNXcnfE3Ukntc=
+			k3pKqQwmPzjtWRsYkoKtW5SIM1eZ1AYB+C/v4bEEZTU=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/goschnorr.framework/Versions/Current</key>
